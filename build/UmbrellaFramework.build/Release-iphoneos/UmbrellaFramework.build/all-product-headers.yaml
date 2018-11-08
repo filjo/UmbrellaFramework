@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/pfilev/workspace/Education/Umbrella/UmbrellaFramework/build/Release-iphoneos/UmbrellaFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "UmbrellaFramework-Swift.h",
+          'external-contents': "/Users/pfilev/workspace/Education/Umbrella/UmbrellaFramework/build/Release-iphoneos/UmbrellaFramework.framework/Headers/UmbrellaFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "UmbrellaFramework.h",
+          'external-contents': "/Users/pfilev/workspace/Education/Umbrella/UmbrellaFramework/UmbrellaFramework/UmbrellaFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/pfilev/workspace/Education/Umbrella/UmbrellaFramework/build/Release-iphoneos/UmbrellaFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/pfilev/workspace/Education/Umbrella/UmbrellaFramework/build/UmbrellaFramework.build/Release-iphoneos/UmbrellaFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
